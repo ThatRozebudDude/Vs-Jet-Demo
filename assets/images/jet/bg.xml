@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bg.png">
+	<!-- Created with Adobe Animate version 18.0.2.126 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="The Shit0000" x="0" y="0" width="2096" height="1532"/>
+	<SubTexture name="The Shit0001" x="2096" y="0" width="2096" height="1532"/>
+	<SubTexture name="The Shit0002" x="4192" y="0" width="2096" height="1532"/>
+	<SubTexture name="The Shit0003" x="0" y="1532" width="2096" height="1532"/>
+	<SubTexture name="The Shit0004" x="2096" y="1532" width="2096" height="1532"/>
+	<SubTexture name="The Shit0005" x="4192" y="1532" width="2096" height="1532"/>
+	<SubTexture name="The Shit0006" x="0" y="3064" width="2096" height="1532"/>
+	<SubTexture name="The Shit0007" x="2096" y="3064" width="2096" height="1532"/>
+	<SubTexture name="The Shit0008" x="2096" y="3064" width="2096" height="1532"/>
+	<SubTexture name="The Shit0009" x="2096" y="3064" width="2096" height="1532"/>
+	<SubTexture name="The Shit0010" x="2096" y="3064" width="2096" height="1532"/>
+	<SubTexture name="The Shit0011" x="2096" y="3064" width="2096" height="1532"/>
+	<SubTexture name="The Shit0012" x="4192" y="3064" width="2096" height="1532"/>
+	<SubTexture name="The Shit0013" x="0" y="0" width="2096" height="1532"/>
+</TextureAtlas>
